@@ -8,4 +8,6 @@ font = "sans serif"
 [server]
 headless = true
 port = 8501
-enableCORS = false
+# Elimina estas líneas si las tienes:
+# enableCORS = false
+# enableXsrfProtection = true
